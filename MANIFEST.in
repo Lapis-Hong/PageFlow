@@ -1,0 +1,8 @@
+include *.rst
+include *.ini
+include LICENSE
+include README.md
+
+global-exclude *.pyc
+recursive-include pageflow *.py
+

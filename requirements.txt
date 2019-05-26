@@ -1,0 +1,4 @@
+requests>=2.12
+scrapy>=1.6.0
+cchardet
+
