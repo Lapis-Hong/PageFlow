@@ -1,5 +1,5 @@
 # PageFLow
-`PageFlow` is a Python (2 and 3) library for webpage search result crawler. 
+*PageFlow* is a Python (2 and 3) library for webpage search result crawler. 
 It provides a simple API and support Google, Baidu, Bing search engines.
 [https://pypi.org/project/pageflow/]
 
@@ -58,9 +58,10 @@ result_all = pf.get_all(query=query, pages=pages)
 ```
 
 ## References
-https://github.com/howie6879/magic_google
-https://github.com/meibenjin/GoogleSearchCrawler
-https://github.com/chrislinan/cx-extractor-python
+https://github.com/howie6879/magic_google 
+https://github.com/meibenjin/GoogleSearchCrawler  
+https://github.com/chrislinan/cx-extractor-python 
+
 
 
 
